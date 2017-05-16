@@ -77,7 +77,7 @@ module TextBlock(letter,sign) {
 }
 
 echo(version=version());
-// Written by Jabi Luengo <jluengoe@herrikide.eus>
+// Written by Leire Enrique, Yulia Iparragirre, Irati Arrillaga and Jabi Luengo <jluengoe@herrikide.eus>
 //
 // To the extent possible under law, the author(s) have dedicated all
 // copyright and related and neighboring rights to this software to the
